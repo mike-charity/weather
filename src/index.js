@@ -8,6 +8,7 @@ root.render(
   <React.StrictMode>
     <h1> Weather </h1>
     <Weather city="paris" />
+    <a href="https://github.com/mike-charity/weather" target="_blank"></a>
   </React.StrictMode>
 );
 // If you want to start measuring performance in your app, pass a function
