@@ -11,10 +11,7 @@ function App() {
           charity mike
           <br />
         </a>
-        <a
-          href="https://github.com/mike-charity/react-weatherapp"
-          target="_blank"
-        >
+        <a href="https://github.com/mike-charity/weather" target="_blank">
           open-sourced on Github
         </a>
       </footer>
