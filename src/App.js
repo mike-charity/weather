@@ -8,7 +8,8 @@ function App() {
       <footer>
         This project was coded by{" "}
         <a href=" " target="_blank">
-          charity
+          charity mike
+          <br />
         </a>
         <a
           href="https://github.com/mike-charity/react-weatherapp"
