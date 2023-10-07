@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <footer>
         This project was coded by{" "}
-        <a href=" " target="_blank">
-          charity mike
+        <a href="charitymike79@gmail.com" target="_blank">
+          charitymike79@gmail.com
           <br />
         </a>
         <a href="https://github.com/mike-charity/weather" target="_blank">
