@@ -7,9 +7,10 @@ function App() {
     <div className="App">
       <footer>
         This project was coded by{" "}
-        <a href="charitymike79@gmail.com" target="_blank">
-          charitymike79@gmail.com
-        </a>
+        <a href="mikecharity0@gmail.com" target="_blank">
+          charity mike
+        </a>{" "}
+        and is{" "}
         <a href="https://github.com/mike-charity/weather" target="_blank">
           open-sourced on Github
         </a>
