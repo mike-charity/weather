@@ -10,11 +10,15 @@ root.render(
     <Weather city="paris" />
     <footer>
       This project was coded by{" "}
-      <a href=" https://www.shecodes.io/" target="_blank">
+      <a href=" https://www.shecodes.io/" target="_blank" rel="noreferrer">
         charity
       </a>{" "}
       and is{" "}
-      <a href="https://github.com/mike-charity/weather" target="_blank">
+      <a
+        href="https://github.com/mike-charity/weather.git"
+        target="_blank"
+        rel="noreferrer"
+      >
         open-sourced on Github
       </a>
     </footer>
